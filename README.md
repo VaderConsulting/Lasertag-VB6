@@ -1,6 +1,6 @@
 # Lasertag
 
-VB6 Lasertag-related utility preserved from Dave Robinson's OneDrive Historical Dev `VB` folder. Distinct from the modern Lasertag repo.
+Freelance VB6 Lasertag registration helper with Register Clan and Register Player actions (historical VB6 tree under `VB/Lasertag`). Distinct from the modern Lasertag GitHub app. Open `Lasertag.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
